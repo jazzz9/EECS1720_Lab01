@@ -1,4 +1,0 @@
-26 Jan - Explored some base ideas. 
-         Planning to make something I would generally use in my field of work. 
-         Some of the options are color picker, font detector, media elements downloader.
-         
